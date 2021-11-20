@@ -1,3 +1,5 @@
+![Preview](music.PNG?raw=true)
+
 # spotif
 
 ## Project setup
